@@ -1,1 +1,1 @@
-# rsschool-cv
+[Ссылка на cv.md](https://aartembabin.github.io/rsschool-cv/cv)
